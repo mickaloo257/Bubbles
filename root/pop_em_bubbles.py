@@ -20,6 +20,8 @@ It defines classes_and_methods
 import sys
 import os
 
+#comment
+
 from optparse import OptionParser
 
 __all__ = []
